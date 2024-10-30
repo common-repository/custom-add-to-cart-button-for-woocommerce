@@ -1,0 +1,9 @@
+== Changelog ==
+= 1.222.10 =
+* Update compatibility with the latest WooCommerce and WordPress versions
+
+= 1.222.9 =
+* Add support for name your price plugin
+
+= 1.222.8 =
+* Minor bug fixes
